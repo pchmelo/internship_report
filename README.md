@@ -1,7 +1,8 @@
 # PI Report
 
 ## Grade
-**Internship Grade:** xx/20.0
+**Internship Grade:** 18/20.0
+**Internship Report Grade:** 19/20.0
 
 ## Introduction
 This report aims to present all the work carried out during the curricular 
